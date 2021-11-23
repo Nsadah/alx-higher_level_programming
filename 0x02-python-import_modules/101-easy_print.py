@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import pythonhash
+__import__("py_print")
