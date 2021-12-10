@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 def safe_print_list_integers(my_list=[], x=0):
     """
     prints a list of anything, but only prints the integers
@@ -16,5 +15,3 @@ def safe_print_list_integers(my_list=[], x=0):
             continue
     print()
     return printed
-© 2021 GitHub, Inc.
-Terms
