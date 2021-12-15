@@ -63,5 +63,5 @@ What does this script print?
 29. Python3: Mutable, Immutable... everything is object!
 Write a blog post about everything you just learned / this project is covering. Your blog post should be articulated this way (one paragraph per item):
 
-###Author
+#Author
 Nsadah Micheal
