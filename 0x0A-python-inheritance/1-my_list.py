@@ -1,16 +1,19 @@
 #!/usr/bin/python3
 """
-===========================
-Module with class MyList
-===========================
+A module to prints a list in ascending order
 """
 
 
 class MyList(list):
-    """Class with method print_sorted"""
-    pass
+    """
+    A class to customize the list class
+    """
 
     def print_sorted(self):
-        """Methot that sorted a list"""
+        """
+        Prints a list in ascending order
+        Sort a list and then prints on the output
+        """
 
-        print(sorted(list(self)))
+        if issubclass(MyList, list):
+            print(sorted(self))
